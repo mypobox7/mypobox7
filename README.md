@@ -7,13 +7,21 @@ That's the whole idea btw!
 
 
 ## **Skills**
-Languages: Python, SQL  
-Data Analysis Tools: ### Microsoft Excel, Power BI, Tableau  
-Statistics: ### Hypothesis testing, Regression analysis, Data visualization  
-Business Analysis: Market research, Competitive analysis, Strategic planning  
-Data Cleaning and Manipulation: Data wrangling, Data PreProcessing, Web Scrapping  
-Database Management: MSSQL Server  
-Version Control: Git
+Languages                      :   Python, SQL  
+
+Data Analysis Tools            :   Microsoft Excel, Power BI, Tableau  
+
+Statistics                     :   Hypothesis testing, Regression analysis, Data visualization  
+
+Business Analysis              :   Market research, Competitive analysis, Strategic planning  
+
+Data Cleaning and Manipulation :   Data wrangling, Data PreProcessing, Web Scrapping  
+
+Database Management            :   MSSQL Server  
+
+Version Control                :   Git
+
+
 
 Here are some ideas to get you started:
 
